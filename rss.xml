@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[DailyOptician]]></title>
+        <description><![CDATA[DailyOptician]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Jan 2016 18:13:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f997f2d1-0504-42c1-b8e8-b03643634d2d.png">]]></description>
+            <link>undefined1f28995d-71c7-4b98-ba74-bdb73c9848b1/index.html</link>
+            <guid isPermaLink="false">1f28995d-71c7-4b98-ba74-bdb73c9848b1</guid>
+            <pubDate>Fri, 29 Jan 2016 18:12:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
