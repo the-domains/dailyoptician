@@ -1,0 +1,28 @@
+name: DailyOptician
+favicon: null
+layout_spectrum: 0.07205144059844315
+typography_spectrum: 0.48283988842740655
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.625
+  lightness: 0.777186096413061
+  saturation: 0.3125
+  rhythmicContrast: 0.5
+purpose: []
